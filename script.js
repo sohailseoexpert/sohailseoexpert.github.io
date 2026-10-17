@@ -1,14 +1,13 @@
 /* ===== EDIT YOUR DETAILS HERE ===== */
 const CONFIG = {
-  email: "EMAIL@YOURDOMAIN.COM",          // your real email
-  whatsapp: "920000000000",               // country code + number, no + or spaces
+  email: "sohailasghar06@gmail.com",          // your real email
+  whatsapp: "923060147166",               // country code + number, no + or spaces
   social: {
     linkedin: "https://www.linkedin.com/in/your-profile",
-    facebook: "https://www.facebook.com/your-page",
-    instagram: "https://www.instagram.com/your-handle",
-    youtube: "https://www.youtube.com/@your-channel",
-    pinterest: "https://www.pinterest.com/your-profile",
-    github: "https://github.com/your-username"
+    facebook: "https://www.facebook.com/sohailhashimofficial",
+    instagram: "https://www.instagram.com/sohailhashimofficial",
+    pinterest: "https://www.pinterest.com/sohailseoconsultant",
+    github: "https://github.com/sohailseoexpert"
   }
 };
 /* ================================== */
